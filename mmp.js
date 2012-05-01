@@ -150,7 +150,7 @@ function openShadowBox(params) {
 		});
 		*/
 		//Google Map
-		var image = '../images/CCHDPP.png';
+		var image = 'images/CCHDPP.png';
 		var j=0;
 		var countDown="";
 		//document.getElementById('txtCount2').value=j + " ";
