@@ -1,0 +1,67 @@
+#header {
+	width: 800px;
+	height: 60px;
+	padding: 0;
+	background-color: green;
+}
+
+/*
+#container {
+	width: 800px;
+	height: 800px;
+	padding: 0;
+}
+*/
+
+#main {
+	width: 800px;
+	height: 20px;
+	padding: 0;
+	background-color: yellow;
+
+}
+#toolbar {
+	width: 800px;
+	height: 20px;
+	padding: 0;
+	background-color: orange;
+	
+	text-align:center;
+}
+
+#map {
+	width: 800px;
+	height: 600px;
+	padding: 0;
+	background-color: gray;
+
+}
+
+#sViewg {
+	width: 800px;
+	height: 400px;
+	padding: 0;
+	background-color: gray;
+
+}
+
+#footer {
+	width: 800px;
+	height: 20px;
+	padding: 0;
+	background-color: blue;
+}
+
+.tool {
+	border: 1px solid #98bf21;
+	margin: 4px;
+	display:inline;	
+}
+
+.css_right {
+	float: right;
+}
+
+.css_left {
+	float: left;
+}
